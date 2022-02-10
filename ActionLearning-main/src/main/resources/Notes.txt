@@ -1,0 +1,16 @@
+1.  get instructor id
+    send (isInstructor true or false)
+    if true send all(courses, pw, id)
+2.  get (/attend/{courseID}/{studentID})
+    if (student in courses)
+    if true, present and send 200
+    if false, send 405
+
+
+//ID - NOUR=04:04:3E:BA:A8:6A:80
+//ID - CHAI=04:20:35:C2:A8:6A:80
+//ID - JAD =04:27:32:C2:A8:6A:80
+//ID - CHASE=04:2D:2B:22:A9:6A:80
+//ID - RAWAD=04:52:43:EA:FF:6B:80
+
+
